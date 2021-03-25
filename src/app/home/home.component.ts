@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import {ApiService} from '../api.service'
+import { HttpResponse } from '@angular/common/http';
+import { Observable } from 'rxjs';
+import { takeUntil } from 'rxjs/operators';
+
 
 @Component({
   selector: 'app-home',
@@ -8,15 +12,51 @@ import {ApiService} from '../api.service'
 })
 export class HomeComponent implements OnInit {
   products = [];
+  destroy$= new Observable<any>();
   
 
   constructor(private apiService: ApiService) { }
 
-  ngOnInit() {
-    this.apiService.get().subscribe((data: any[]) => {
-      console.log(data);
-      this.products = data;
-    })
-  }
+  ngOnInit(){
+
+    this.apiService.get().pipe(takeUntil(this.destroy$)).subscribe((res: HttpResponse<any>)=>{  
+      console.log(res);  
+      this.products = res.body;  
+    })  
+    }
+    public firstPage() {
+      this.products = [];
+      this.apiService.sendGetRequestToUrl(this.apiService.first).pipe(takeUntil(this.destroy$)).subscribe((res: HttpResponse<any>) => {
+        console.log(res);
+        this.products = res.body;
+      })
+    }
+    public previousPage() {
+  
+      if (this.apiService.prev !== undefined && this.apiService.prev !== '') {
+        this.products = [];
+        this.apiService.sendGetRequestToUrl(this.apiService.prev).pipe(takeUntil(this.destroy$)).subscribe((res: HttpResponse<any>) => {
+          console.log(res);
+          this.products = res.body;
+        })
+      }
+  
+    }
+    public nextPage() {
+      if (this.apiService.next !== undefined && this.apiService.next !== '') {
+        this.products = [];
+        this.apiService.sendGetRequestToUrl(this.apiService.next).pipe(takeUntil(this.destroy$)).subscribe((res: HttpResponse<any>) => {
+          console.log(res);
+          this.products = res.body;
+        })
+      }
+    }
+    public lastPage() {
+      this.products = [];
+      this.apiService.sendGetRequestToUrl(this.apiService.last).pipe(takeUntil(this.destroy$)).subscribe((res: HttpResponse<any>) => {
+        console.log(res);
+        this.products = res.body;
+      })
+    }
 
 }
