@@ -4,7 +4,7 @@
             "name": "Fantastic Plastic Hat",
             "description": "Quis amet aut et. Tempore velit et id qui quia ex asperiores. Aut assumenda accusantium ea unde laborum nisi ratione odio. Reprehenderit omnis accusamus. Perspiciatis quidem sequi unde voluptatem corrupti et inventore earum. Voluptatem nulla et voluptate.",
             "price": "285.00",
-            "imageUrl": "https://unsplash.com/photos/PDX_a_82obo",
+            "imageUrl": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
             "quantity": 35555
         },
         {
@@ -12,7 +12,7 @@
             "name": "Handmade Fresh Fish",
             "description": "Deleniti quo voluptas ut aut ut in sed dolores quo. Itaque aut sapiente delectus. Et odit quia autem. Tempore quo adipisci qui et aliquam consequatur. Et aut laborum ea itaque accusamus.",
             "price": "405.00",
-            "imageUrl": "https://unsplash.com/photos/LxVxPA1LOVM",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
             "quantity": 42446
         },
         {
@@ -20,7 +20,7 @@
             "name": "Refined Steel Hat",
             "description": "Adipisci quidem laborum inventore distinctio dolorem eum itaque dolorem. Laboriosam incidunt distinctio. Facere qui vel voluptas accusamus dolores sit amet excepturi aut. Repellendus harum est.",
             "price": "313.00",
-            "imageUrl": "https://unsplash.com/photos/2cFZ_FB08UM",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
             "quantity": 62588
         },
         {
@@ -28,7 +28,7 @@
             "name": "Fantastic Plastic Towels",
             "description": "Amet occaecati minus exercitationem. In quis autem deleniti vero iure. Ratione corrupti necessitatibus accusantium.",
             "price": "840.00",
-            "imageUrl": "https://unsplash.com/photos/KStSiM1UvPw",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
             "quantity": 84405
         },
         {
@@ -36,7 +36,7 @@
             "name": "Gorgeous Steel Cheese",
             "description": "Est asperiores odio dolores modi nemo deserunt reprehenderit. Sit recusandae dolor voluptas delectus quo nihil aut cum.",
             "price": "723.00",
-            "imageUrl": "https://unsplash.com/photos/164_6wVEHfI",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/barbara.png",
             "quantity": 29610
         },
         {
@@ -44,7 +44,7 @@
             "name": "Intelligent Cotton Shirt",
             "description": "Ut sunt velit id deserunt. Et cupiditate quo reiciendis odio deleniti. Iusto quas voluptatibus eius. Molestias autem sunt eos minus dolorem quo. Quis eius voluptas.",
             "price": "227.00",
-            "imageUrl": "https://unsplash.com/photos/ElfJDs4LAQk",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
             "quantity": 74060
         },
         {
@@ -52,7 +52,7 @@
             "name": "Rustic Wooden Computer",
             "description": "Ad aliquid ut. Et quo qui adipisci molestias voluptates est asperiores ea. Dolore incidunt ab velit sunt. Consequatur et quia ut omnis. Magni voluptatem ducimus distinctio. Nam fuga sequi et asperiores.",
             "price": "500.00",
-            "imageUrl": "https://unsplash.com/photos/K62u25Jk6vo",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
             "quantity": 46735
         },
         {
@@ -60,7 +60,7 @@
             "name": "Practical Granite Tuna",
             "description": "Quasi magnam enim ea rerum eos amet. Non suscipit sed ipsa. Ducimus molestiae consequatur.",
             "price": "191.00",
-            "imageUrl": "https://unsplash.com/photos/4kTbAMRAHtQ",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png",
             "quantity": 96698
         },
         {
@@ -68,7 +68,7 @@
             "name": "Licensed Soft Car",
             "description": "Sunt mollitia ab quaerat cumque harum. Beatae repellat voluptatum debitis aliquid ut officia voluptatem.",
             "price": "595.00",
-            "imageUrl": "https://unsplash.com/photos/miziNqvJx5M",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/frymire.png",
             "quantity": 18637
         },
         {
@@ -76,7 +76,7 @@
             "name": "Intelligent Fresh Bacon",
             "description": "Vel blanditiis rem dolorem aspernatur in. Eos corrupti officia culpa natus commodi quos. Atque et praesentium deserunt enim id qui eos. Et occaecati aut nobis voluptatem mollitia libero recusandae quae et.",
             "price": "867.00",
-            "imageUrl": "https://unsplash.com/photos/p0OlRAAYXLY",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/girl.png",
             "quantity": 11349
         },
         {
@@ -84,7 +84,7 @@
             "name": "Gorgeous Rubber Computer",
             "description": "Animi debitis voluptas consequatur id cum cumque et alias. Eaque explicabo quas qui autem tenetur tempore labore dolores.",
             "price": "930.00",
-            "imageUrl": "https://unsplash.com/photos/KsLPTsYaqIQ",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png",
             "quantity": 27992
         },
         {
@@ -92,7 +92,7 @@
             "name": "Handcrafted Metal Bike",
             "description": "Voluptates tempora ipsa vel a corporis sed optio. Repellat quas sint nobis. Non est perferendis voluptas eaque tempore officia non ad.",
             "price": "255.00",
-            "imageUrl": "https://unsplash.com/photos/O_bhy3TnSYU",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/lena.png",
             "quantity": 57944
         },
         {
@@ -100,7 +100,7 @@
             "name": "Practical Wooden Chips",
             "description": "Qui dolores sed adipisci facilis. Voluptatem mollitia fugiat quas earum quas. Eaque aut ut accusamus omnis asperiores accusantium incidunt. Quibusdam nemo magnam. Quod sit corporis qui quas impedit. Ut et et necessitatibus est molestias saepe quia.",
             "price": "748.00",
-            "imageUrl": "https://unsplash.com/photos/n_wXNttWVGs",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png",
             "quantity": 35450
         },
         {
@@ -108,7 +108,7 @@
             "name": "Generic Steel Towels",
             "description": "Nobis ut dolore. Maiores nulla atque quidem harum debitis asperiores nam. Et ut neque sed reprehenderit dolor inventore. Mollitia asperiores nostrum voluptatum cupiditate aut explicabo itaque.",
             "price": "298.00",
-            "imageUrl": "https://unsplash.com/photos/BX4Q0gojWAs",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/mountain.png",
             "quantity": 80353
         },
         {
@@ -116,7 +116,7 @@
             "name": "Intelligent Plastic Mouse",
             "description": "Nostrum voluptatem dolor repudiandae. In sapiente quia voluptatem nesciunt nemo rerum voluptas sed. Quos sapiente repudiandae illo voluptatum. Dolorum fugit sit dicta pariatur qui blanditiis dolores veritatis debitis.",
             "price": "92.00",
-            "imageUrl": "https://unsplash.com/photos/a-QH9MAAVNI",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png",
             "quantity": 39903
         },
         {
@@ -124,7 +124,7 @@
             "name": "Tasty Wooden Ball",
             "description": "Quibusdam eos est quisquam consectetur voluptatem aut provident. Optio voluptate similique illum sit eum facilis.",
             "price": "578.00",
-            "imageUrl": "https://unsplash.com/photos/GnWKTJlMYsQ",
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/pool.png",
             "quantity": 83424
         }
     ]
